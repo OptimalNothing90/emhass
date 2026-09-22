@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+### Improvement
+- feat(api): add GET /api/v1/plan JSON endpoint (@OptimalNothing90)
+
 ## 0.17.7 - 2026-06-11
 We are excited to announce the latest release of EMHASS! This version brings highly requested features for battery management, significant upgrades to forecasting, and a solid round of bug squashing.
 
